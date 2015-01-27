@@ -44,8 +44,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'gallery'
-copyright = '2015, Paul MORA'
+project = 'PrestaShop Module - Gallery'
+copyright = '2015, ébewè - ebewe.net - Paul MORA'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -198,7 +198,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'gallery.tex', 'Gallery Documentation',
-   'Paul MORA', 'manual'),
+   'ébewè - ebewe.net - Paul MORA', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -228,7 +228,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'gallery', 'Gallery Documentation',
-     ['Paul MORA'], 1)
+     ['ébewè - ebewe.net - Paul MORA'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -242,7 +242,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'gallery', 'Gallery Documentation',
-   'Paul MORA', 'gallery', 'PrestaShop module Gallery Documentation',
+   'ébewè - ebewe.net - Paul MORA', 'Gallery Documentation', 'PrestaShop module Gallery Documentation',
    'Miscellaneous'),
 ]
 
