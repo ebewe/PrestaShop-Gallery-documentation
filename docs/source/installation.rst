@@ -23,9 +23,8 @@ Click on Install
 .. image:: img/install_4.png
    :alt: Install the module
 
-
-
 The Gallery module is now installed.
+
 To configure it, you have 2 choices:
 
 Click on Configure
@@ -39,4 +38,4 @@ Click on Modules > Gallery
    :alt: Configure the module
 
 
-Installation is complete ! You can now go to :ref:`configuration`
+Installation is complete ! You can now go to :doc:`configuration`
