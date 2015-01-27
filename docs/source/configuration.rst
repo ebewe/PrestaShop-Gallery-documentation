@@ -1,43 +1,43 @@
 Configuration
 =============
 
-Configuring the module is really easy.
+Configurer le module est très simple.
 
-Once on the configuration page, you will see an empty table.
+Une fois sur la page Configuration, vous verrez un tableau vide.
 
-Click on Add
-^^^^^^^^^^^^
+Cliquez sur Ajouter
+^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_1.png
-   :alt: Add a picture
+   :alt: Ajoutez une image
 
-Configure your picture
+Configurez votre image
 ^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_2.png
-   :alt: Add a picture form
+   :alt: Formulaire d'ajout d'une image
 
-* Click on Choose a file to add a picture (step 1)
-* Enter a title for your picture (step 2)
-* If you want, change the language to enter a different picture and title (step 3)
-* Enable or Disable the picture (step 4)
-* Save your modifications (step 5)
+* Cliquez sur Choisissez un fichier pour ajouter une image (étape 1)
+* Entrez un titre pour votre image (étape 2)
+* Si vous le souhaitez, changez de langue pour entrer une image et un titre différent (étape 3)
+* Activez ou désactivez l'image (étape 4)
+* Enregistrez vos modifications (étape 5)
 
-After adding some pictures, the table will look like this
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Après avoir ajouté quelques images, le tableau ressemblera à cela
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_3.png
-   :alt: Full table
+   :alt: Tableau rempli
 
-You can modify each picture by clicking on Modify
+Vous pouvez modifier chaque image en cliquant sur Modifier
 
-You can also change the position of the pictures
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vous pouvez également changer la position de vos images
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_4.png
-   :alt: Change position
+   :alt: Changer la position d'une image
 
-* First, sort the pictures by position (step 1)
-* Then drag the picture you want and drop it where you want (step 2)
+* Premièrement, classez les images par position (étape 1)
+* Ensuite, cliquez sur l'image que vous souhaitez et déposez la où vous le voulez (étape 2)
 
 .. image:: img/config_5.png
-   :alt: Change position
+   :alt: Changer la position d'une image
 
 .. image:: img/config_6.png
-   :alt: Change position
+   :alt: Changer la position d'une image
