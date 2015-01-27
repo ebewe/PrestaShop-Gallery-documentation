@@ -198,7 +198,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'gallery.tex', 'Gallery Documentation',
-   'ébewè - ebewe.net - Paul MORA', 'manual'),
+   'ebewe.net - Paul MORA', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -228,7 +228,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'gallery', 'Gallery Documentation',
-     ['ébewè - ebewe.net - Paul MORA'], 1)
+     ['ebewe.net - Paul MORA'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -242,7 +242,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'gallery', 'Gallery Documentation',
-   'ébewè - ebewe.net - Paul MORA', 'Gallery Documentation', 'PrestaShop module Gallery Documentation',
+   'ebewe.net - Paul MORA', 'Gallery Documentation', 'PrestaShop module Gallery Documentation',
    'Miscellaneous'),
 ]
 
