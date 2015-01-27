@@ -18,5 +18,5 @@ Index:
 
    installation
    configuration
-   désinstallation
+   desinstallation
    conclusion
