@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PrestaShop Module - Gallery'
-copyright = '2015, ébewè - ebewe.net - Paul MORA'
+copyright = '2015, ebewe.net - Paul MORA'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -228,7 +228,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'gallery', 'Gallery Documentation',
-     ['ebewe.net - Paul MORA'], 1)
+     ['ébewè - ebewe.net - Paul MORA'], 1)
 ]
 
 # If true, show URL addresses after external links.
