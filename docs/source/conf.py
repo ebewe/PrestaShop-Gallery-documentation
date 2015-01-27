@@ -228,7 +228,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'gallery', 'Gallery Documentation',
-     ['ébewè - ebewe.net - Paul MORA'], 1)
+     ['ebewe.net - Paul MORA'], 1)
 ]
 
 # If true, show URL addresses after external links.
