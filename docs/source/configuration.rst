@@ -19,14 +19,14 @@ If you want, change the language to enter a different picture and title (step 3)
 Enable or Disable the picture (step 4)
 Save your modifications (step 5)
 
-### After adding some pictures, the table will look like this
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+After adding some pictures, the table will look like this
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_3.png
    :alt: Full table
 You can modify each picture by clicking on Modify
 
-### You can also change the position of the pictures
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You can also change the position of the pictures
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_4.png
    :alt: Change position
 First, sort the pictures by position (step 1)
